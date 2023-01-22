@@ -1,0 +1,90 @@
+body{
+    background-color: grey;
+}
+.all{
+    border: 1px solid black;
+}
+.abc{
+    margin-right: 400px;
+    margin-left: 200px;
+}
+.container{
+    border: 1px solid black;
+    
+
+    
+
+}
+.container {
+    margin-left: 250px;
+}
+
+.def{
+    border: 1px solid black;
+    margin-right: 80%;
+    margin-left: none;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+#btn{
+    align-items: center;
+}
+#btn1{
+    align-items: center;
+}
+#btn2{
+    align-items: center;
+}
+#btn3{
+    align-items: space-around;
+}
+.efg{
+background-image: url("C:\Users\91995\Desktop\diwaliimage.jpg");
+border: 1px solid black;
+margin-left:100px;
+margin-right: 0px;
+margin-top: 20px;
+margin-bottom:100px;
+}
+.q,.w,.e,.r{
+    cursor: pointer;
+}
+.z,.x,.c{
+    border: 1px solid black;
+
+
+}
+
+    
+        .bottom{
+            margin-left: 250px;
+            border: 1px solid black;
+        }
+        .efg{
+            margin-left: 250px;
+            
+        }
+        .def{
+            margin-top: 0px;
+            margin-bottom: 0px;
+            
+        }
+        .x {
+            margin-left: 250px;
+            margin-right: 600px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        
+.z {
+margin-left: 150px;
+margin-right: 750px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+.c {
+margin-left: 400px;
+margin-right: 400px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
